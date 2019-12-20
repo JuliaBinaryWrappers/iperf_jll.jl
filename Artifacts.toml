@@ -1,0 +1,97 @@
+[[iperf]]
+arch = "armv7l"
+git-tree-sha1 = "376334e86c53a2059661e7e0a65707a55607dc5d"
+libc = "glibc"
+os = "linux"
+
+    [[iperf.download]]
+    sha256 = "a6fa19d9f33e9d17a9c5315739ce6b6dbc89c8ee42fa0ebc459c847ee777b4d8"
+    url = "https://github.com/JuliaBinaryWrappers/iperf_jll.jl/releases/download/iperf-v3.7.0+0/iperf.v3.7.0.arm-linux-gnueabihf.tar.gz"
+[[iperf]]
+arch = "x86_64"
+git-tree-sha1 = "8ab5cbff1819c3cd5c76a0cd4d8f5124b8055fe6"
+libc = "glibc"
+os = "linux"
+
+    [[iperf.download]]
+    sha256 = "462dd972cbc4c22728b5931f69ea44018fa9365022d75371e4dcce0715127dbb"
+    url = "https://github.com/JuliaBinaryWrappers/iperf_jll.jl/releases/download/iperf-v3.7.0+0/iperf.v3.7.0.x86_64-linux-gnu.tar.gz"
+[[iperf]]
+arch = "aarch64"
+git-tree-sha1 = "ab20f83ec0d4df03befd56d857714821256ced5b"
+libc = "musl"
+os = "linux"
+
+    [[iperf.download]]
+    sha256 = "bf029b3710317424175293075d0a209fa90f74b2aab9cb1281704e48a5819abd"
+    url = "https://github.com/JuliaBinaryWrappers/iperf_jll.jl/releases/download/iperf-v3.7.0+0/iperf.v3.7.0.aarch64-linux-musl.tar.gz"
+[[iperf]]
+arch = "powerpc64le"
+git-tree-sha1 = "716520c25a36588fda74df3994fbe4fbb202c7c0"
+libc = "glibc"
+os = "linux"
+
+    [[iperf.download]]
+    sha256 = "9bce46b512e7987cc8d2351f3917396caaf35194d9c5db8ba66aac895b68e765"
+    url = "https://github.com/JuliaBinaryWrappers/iperf_jll.jl/releases/download/iperf-v3.7.0+0/iperf.v3.7.0.powerpc64le-linux-gnu.tar.gz"
+[[iperf]]
+arch = "x86_64"
+git-tree-sha1 = "4d13e82c02b0a4f036dcb23b2049304fa9f4ab9e"
+os = "macos"
+
+    [[iperf.download]]
+    sha256 = "8eb491aa62e2aaea989ff7dff2b1c107693050f991767002e62206d58915ec9c"
+    url = "https://github.com/JuliaBinaryWrappers/iperf_jll.jl/releases/download/iperf-v3.7.0+0/iperf.v3.7.0.x86_64-apple-darwin14.tar.gz"
+[[iperf]]
+arch = "x86_64"
+git-tree-sha1 = "a9b5f06b6455312ddf6033facd25ab5b8469f696"
+libc = "musl"
+os = "linux"
+
+    [[iperf.download]]
+    sha256 = "b255f9affcbf88655e6d7630e01a674929a01927dc6003323ea79867c1b06bbe"
+    url = "https://github.com/JuliaBinaryWrappers/iperf_jll.jl/releases/download/iperf-v3.7.0+0/iperf.v3.7.0.x86_64-linux-musl.tar.gz"
+[[iperf]]
+arch = "i686"
+git-tree-sha1 = "b2fd38c1eda42453685454500c98eaa67c8604ef"
+libc = "glibc"
+os = "linux"
+
+    [[iperf.download]]
+    sha256 = "f437a7eb37e9bfcfe33a09bedab6522bed4c7d6d4ebdfa0736abfc5229887eba"
+    url = "https://github.com/JuliaBinaryWrappers/iperf_jll.jl/releases/download/iperf-v3.7.0+0/iperf.v3.7.0.i686-linux-gnu.tar.gz"
+[[iperf]]
+arch = "aarch64"
+git-tree-sha1 = "5725e49727b2768a5a507e5a7bec1e0a9c2861d6"
+libc = "glibc"
+os = "linux"
+
+    [[iperf.download]]
+    sha256 = "c84d3f9d0d121862fd65df34cc1b78efa9f694a8ba025f5bdd91a5752346fa50"
+    url = "https://github.com/JuliaBinaryWrappers/iperf_jll.jl/releases/download/iperf-v3.7.0+0/iperf.v3.7.0.aarch64-linux-gnu.tar.gz"
+[[iperf]]
+arch = "i686"
+git-tree-sha1 = "b1f66a1a9827470b9cbe5328d6def3fb5463d21d"
+libc = "musl"
+os = "linux"
+
+    [[iperf.download]]
+    sha256 = "2b7e2530b144710fc042e75302af39745ba6150036e1effc9de6eeb30e9179d9"
+    url = "https://github.com/JuliaBinaryWrappers/iperf_jll.jl/releases/download/iperf-v3.7.0+0/iperf.v3.7.0.i686-linux-musl.tar.gz"
+[[iperf]]
+arch = "x86_64"
+git-tree-sha1 = "eb06055fbade90eac1ad5ee30f00dbbc057cfe1c"
+os = "freebsd"
+
+    [[iperf.download]]
+    sha256 = "18a8ab70ff6db2124183ffeedc4a1a5d2ffcdb0d61de0873ff9aa8cba6dbaf20"
+    url = "https://github.com/JuliaBinaryWrappers/iperf_jll.jl/releases/download/iperf-v3.7.0+0/iperf.v3.7.0.x86_64-unknown-freebsd11.1.tar.gz"
+[[iperf]]
+arch = "armv7l"
+git-tree-sha1 = "ddee5e7d2e80077a900f63f3adafb630fce4fb21"
+libc = "musl"
+os = "linux"
+
+    [[iperf.download]]
+    sha256 = "a07d4fae9089a7b0c58f62f6342ffc45842d6e2e6ba86d774201f08907a4edac"
+    url = "https://github.com/JuliaBinaryWrappers/iperf_jll.jl/releases/download/iperf-v3.7.0+0/iperf.v3.7.0.arm-linux-musleabihf.tar.gz"
